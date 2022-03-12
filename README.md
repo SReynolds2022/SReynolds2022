@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SReynolds2022
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... Civil Engineering
+- 💞️ I’m looking to collaborate on ... future projects
+- 📫 How to reach me ... sreynolds@uc.cl
